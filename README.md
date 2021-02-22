@@ -1,3 +1,4 @@
 # Your blog
 
-This is the repository for your blog! Click *_config.yml* above to get started and fill in the details. Then click *index.md* and edit it to start creating your home page.
+Welcome to the repository of my blog! 
+*_config.yml* to get started and fill in the details. *index.md* and edit it to start creating  home page.
